@@ -6,7 +6,7 @@ This repo contains the code of the following paper:
 
 In this paper, we propose the Multi-Type Multi-Span Network (MTMSN) for reading comprehension that requires discrete reasoning.
 
-The nework contains: 
+The network contains: 
 - a multi-type answer predictor that supports the prediction of various answer types (e.g., date, number, and span); 
 - a multi-span extractor that dynamically produces one or multiple text strings; 
 - an arithmetic expression reranking mechanism that re-ranks candidate expressions to further confirm the prediction.  
