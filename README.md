@@ -4,10 +4,7 @@ This repo contains the code of the following paper:
 
 <i> [A Multi-Type Multi-Span Network for Reading Comprehension that Requires Discrete Reasoning](https://arxiv.org/abs/1908.05514). Minghao Hu, Yuxing Peng, Zhen Huang, Dongsheng Li. EMNLP 2019.</i>
 
-In this paper, we propose the Multi-Type Multi-Span Network (MTMSN) for reading comprehension that requires discrete reasoning, which is shown as below: 
-<p>
-<img src="image/mtmsn_overview.pdf" width="800">
-</p>
+In this paper, we propose the Multi-Type Multi-Span Network (MTMSN) for reading comprehension that requires discrete reasoning.
 
 The nework contains: 
 - a multi-type answer predictor that supports the prediction of various answer types (e.g., date, number, and span); 
